@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map For RollingAverage
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RollingAverage	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+tGetRollingAverage	KEYWORD2
+tReplaceLastValue	KEYWORD2
+bIsValid	KEYWORD2
+uiCapacity	KEYWORD2
+uiFilledCount	KEYWORD2
+ulFreeMemory	KEYWORD2

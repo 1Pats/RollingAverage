@@ -1,0 +1,19 @@
+{
+  "name": "RollingAverage",
+  "version": "1.0.0",
+  "description": "Generic ring-buffer rolling average class with configurable size and value type. Automatic rounding-drift correction for floating-point accumulators, with zero runtime cost for integer types.",
+  "keywords": "rolling, moving, average, filter, smoothing, ring buffer",
+  "authors": [
+    {
+      "name": "1Pats",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "headers": "RollingAverage.h",
+  "examples": [
+    "examples/*/*.ino"
+  ]
+}
